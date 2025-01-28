@@ -14,15 +14,15 @@
     - [X] Skapa en användarresa (User Journey) för den valda idén.
     - [X] Skapa användarberättelser (User Stories) baserat på användarresan.
 - **Funktioner och Krav:**
-    - [ ] Identifiera de viktigaste funktionerna och kraven för tjänsten/produkten.
+    - [X] Identifiera de viktigaste funktionerna och kraven för tjänsten/produkten.
 - **Sprintplanering:**
-    - [ ] Börja planera sprint 1-3 (översiktlig planering).
+    - [X] Börja planera sprint 1-3 (översiktlig planering).
 
 ### Sprint 2 - Vecka 2: Design och Planering
 
 - **Design:**
     - Skissa på en detaljerad design för applikationen:
-        - [ ] Användargränssnitt (UI)
+        - [ ] Figma Design Användargränssnitt (UX)
         - [ ] Databasstruktur (Systemarkitektur)
 - **Metoder och Tekniker:**
     - Ge förslag på lämpliga metoder och tekniker för:
@@ -45,4 +45,4 @@
     - Förbered en presentation som beskriver:
         - [ ] Arbetsprocessen under sprintarna
         - [ ] Det framtagna materialet
-        - [ ] Fortsatt plan för genomförandet
+        - [ ] Fortsatt plan för genomförandet (sprint (4,5 t.ex)
