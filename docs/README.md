@@ -14,12 +14,18 @@ Detta är en del av kursens **agila projektledning** där vi arbetar med **Scrum
 ---
 
 ## 🏗️ Sprintplan & Struktur
-Projektet delas upp i **tre sprintar**:
+Projektet delas upp i **fem sprintar**:
+
 | **Sprint** | **Fokus** |
 |-----------|----------|
 | 🏁 **Sprint 1** | Idégenerering & Kravinsamling (User Stories, User Journeys) |
 | 🎨 **Sprint 2** | Design & Planering (Figma-prototyp, systemarkitektur) |
 | 🚀 **Sprint 3** | Demonstration & Presentation |
+| 🛠️ **Sprint 4** | Backend & Databas (Lagring av användardata, watchlist, betyg) |
+| 🎭 **Sprint 5** | Frontend & UI (Implementering av vyer och funktionalitet) |
+
+🔹 **Sprint 4 & 5** är planerade för vidare utveckling av systemet, men ingår inte i den aktuella leveransen. De visar dock hur projektet kan fortsätta till en färdig produkt.
+
 
 Vi använder **GitHub Projects** för backlog, sprintplanering och arbetsfördelning.
 
@@ -47,18 +53,11 @@ Alla projektfiler och detaljerad dokumentation finns här:
 ---
 
 ## 💡 Team & Roller
-- **Scrum Master:** _[Namn]_
-- **Projektledare:** _[Namn]_
-- **Utvecklare & Designers:** _[Namn]_
+- **Scrum Master:** Alla i teamet har testat och diskuterat rollen
+- **Projektledare:** Delat ansvar för planering och beslut
+- **Utvecklare & Designers:** Alla teammedlemmar bidrar till utveckling och design
 
-Alla i teamet bidrar till **planering, design och utveckling**.
-
----
-
-## 📅 Inlämningskrav
-✅ Dokumentation av sprintar (Miro/Mural)  
-✅ Länk till **GitHub Projects**  
-✅ Presentation (PDF + inspelad demo)  
-✅ Prototyp i **Figma**  
+Alla i teamet har provat på eller diskuterat de olika rollerna inom Scrum, inklusive **Scrum Master, Produktägare (PO) och Utvecklare**.
 
 ---
+
