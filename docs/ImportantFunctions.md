@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="documentation.md">📄 Till Dokumentation</a>
+</p>
+
+
 # Viktigaste funktionerna
 1. Skapa konto och logga in.
 2. Lägga till filmer och serier i en lista.
