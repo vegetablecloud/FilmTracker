@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="./documentation.md">📄 Till Dokumentation</a>
+  <a href="https://github.com/vegetablecloud/FilmTracker/blob/main/docs/documentaion.md">📄 Till Dokumentation</a>
 </p>
 
 
