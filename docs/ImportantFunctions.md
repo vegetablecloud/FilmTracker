@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="documentation.md">📄 Till Dokumentation</a>
+  <a href="/documentation.md">📄 Till Dokumentation</a>
 </p>
 
 
