@@ -40,7 +40,8 @@ Alla projektfiler och detaljerad dokumentation finns här:
 ---
 
 ## 🎥 Prototyp & Presentation
-🔗 **Länk till Figma-prototyp:** *(kommer att fyllas i senare)*  
+**🎨 Designprototyp i Figma** [![Figma](https://img.shields.io/badge/Design-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/Ck4rAN0Qxf3bPs01Fz224C/Untitled?node-id=0-1&p=f&t=CjdCcjeLicJ671Kz-0)
+
 🎤 **Sprint Reviews & Demo:** *(kommer att fyllas i senare)*  
 
 ---
