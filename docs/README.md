@@ -24,8 +24,8 @@ Projektet delas upp i **fem sprintar**:
 | 🛠️ **Sprint 4** | Backend & Databas (Lagring av användardata, watchlist, betyg) |
 | 🎭 **Sprint 5** | Frontend & UI (Implementering av vyer och funktionalitet) |
 
-🔹 **Sprint 4 & 5** är planerade för vidare utveckling av systemet, men ingår inte i den aktuella leveransen. De visar dock hur projektet kan fortsätta till en färdig produkt.
-
+🔹 **Sprint 4:** Här utvecklas backend-logiken och databasen, inklusive lagring av användardata, watchlist och betyg.  
+🔹 **Sprint 5:** Här implementeras UI-komponenter och frontend-funktionalitet, inklusive att visa statistik och rekommendationer.
 
 Vi använder **GitHub Projects** för backlog, sprintplanering och arbetsfördelning.
 
@@ -39,25 +39,37 @@ Alla projektfiler och detaljerad dokumentation finns här:
 ---
 
 ## ⚙️ Teknikval
-- **Verktyg:** GitHub Projects, Figma, Miro/Mural
-- **Metodik:** Scrum + Kanban
-- **Kodning:** Ej relevant i projektet.
+- **Verktyg:** GitHub Projects, Figma  
+- **Metodik:** Scrum + Kanban  
+- **Kodning:** Ej relevant i projektet.  
 
 ---
 
 ## 🎥 Prototyp & Presentation
 **🎨 Designprototyp i Figma** [![Figma](https://img.shields.io/badge/Design-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/Ck4rAN0Qxf3bPs01Fz224C/Untitled?node-id=0-1&p=f&t=CjdCcjeLicJ671Kz-0)
 
-🎤 **Sprint Reviews & Demo:** *(kommer att fyllas i senare)*  
+🎤 **Sprint Reviews & Demo:**  
+- **Sprint 1:** Idégenerering & kravinsamling – Vi brainstormade funktioner och skapade user stories.  
+- **Sprint 2:** Design & planering – Vi byggde en interaktiv Figma-prototyp och diskuterade systemarkitektur.  
+- **Sprint 3:** Demonstration & presentation – Genomgång av prototypen och feedback.  
+- **Sprint 4 & 5:** Planerade men ej levererade – För att visa projektets potentiella fortsättning.  
 
 ---
 
 ## 💡 Team & Roller
-- **Scrum Master:** Alla i teamet har testat och diskuterat rollen
-- **Projektledare:** Delat ansvar för planering och beslut
-- **Utvecklare & Designers:** Alla teammedlemmar bidrar till utveckling och design
+- **Scrum Master:** Alla i teamet har testat och diskuterat rollen  
+- **Projektledare:** Delat ansvar för planering och beslut  
+- **Utvecklare & Designers:** Alla teammedlemmar bidrar till utveckling och design  
 
 Alla i teamet har provat på eller diskuterat de olika rollerna inom Scrum, inklusive **Scrum Master, Produktägare (PO) och Utvecklare**.
+
+---
+
+## 📅 Inlämningskrav
+✅ Dokumentation av sprintar på GitHub Repo  
+✅ Länk till **GitHub Projects**  
+✅ Presentation (Canva + inspelad demo)  
+✅ Prototyp i **Figma**  
 
 ---
 
