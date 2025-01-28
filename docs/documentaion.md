@@ -2,9 +2,11 @@
 Här samlas all viktig dokumentation för projektet.
 
 ## Innehåll
-- [Viktiga Funktioner](ImportantFunctions.md)
-- [To-Do Lista](Todos.md)
-- [Användarresor](user_journeys.md)
+- [Important functions](ImportantFunctions.md)
+- [To-Do List](Todos.md)
+- [User Journeys](user_journeys.md)
+- [Future Plan](future_plan.md)
+
 
 ## Beskrivning
 Detta dokument innehåller den centrala dokumentationen för projektet och kommer att uppdateras under kursens gång.
