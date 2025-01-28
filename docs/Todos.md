@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="https://github.com/vegetablecloud/FilmTracker/blob/main/docs/documentaion.md">📄 Till Dokumentation</a>
+</p>
+
+
 ## ToDo-lista för Skoluppgiften
 
 ### Sprint 1 - Vecka 1: Idégenerering och Kravsammanställning
