@@ -13,6 +13,18 @@ Detta är en del av kursens **agila projektledning** där vi arbetar med **Scrum
 
 ---
 
+## 🏷️ Minimum Viable Product (MVP)
+MVP för FilmTracker fokuserar på att leverera en grundläggande, fungerande version av systemet med de mest kritiska funktionerna:
+- Skapa och hantera en personlig **watchlist**.
+- Spara och betygsätta filmer och serier.
+- Visa grundläggande statistik om tittarbeteende.
+- Responsiv och intuitiv UI-design i Figma.
+- Enkel navigering mellan vyer.
+
+Denna MVP möjliggör en tidig testning av konceptet och kan senare utökas med fler avancerade funktioner.
+
+---
+
 ## 🏗️ Sprintplan & Struktur
 Projektet delas upp i **fem sprintar**:
 
