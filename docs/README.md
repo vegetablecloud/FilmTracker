@@ -34,7 +34,7 @@ Vi använder **GitHub Projects** för backlog, sprintplanering och arbetsfördel
 ## 📂 Dokumentation
 Alla projektfiler och detaljerad dokumentation finns här:
 
-📖 **[Dokumentation](docs/documentation.md)**  
+📖 **[Dokumentation](documentation.md)**  
 
 ---
 
