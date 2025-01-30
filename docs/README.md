@@ -25,6 +25,10 @@ Denna MVP möjliggör en tidig testning av konceptet och kan senare utökas med 
 
 ---
 
+📜 **Presentation i Canva:**  
+[![Canva](https://img.shields.io/badge/View-Presentation-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/design/DAGdecepuyc/emETyEGbw-biX7vnZlzaGg/view?utm_content=DAGdecepuyc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdd7b55560c)
+---
+
 ## 🏗️ Sprintplan & Struktur
 Projektet delas upp i **fem sprintar**:
 
