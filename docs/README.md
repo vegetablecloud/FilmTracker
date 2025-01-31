@@ -79,6 +79,12 @@ Alla projektfiler och detaljerad dokumentation finns här:
 
 Alla i teamet har provat på eller diskuterat de olika rollerna inom Scrum, inklusive **Scrum Master, Produktägare (PO) och Utvecklare**.
 
+
+---
+
+## 🗄️ Databasstruktur 
+[![Databas Struktur](databas_struktur_fiktivt_arbete_agil_projektledning.png)](databas_struktur_fiktivt_arbete_agil_projektledning.png)
+
 ---
 
 ## 📅 Inlämningskrav
