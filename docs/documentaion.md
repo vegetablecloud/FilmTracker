@@ -6,6 +6,7 @@ Här samlas all viktig dokumentation för projektet.
 - [To-Do List](Todos.md)
 - [User Journeys](user_journeys.md)
 - [Future Plan](future_plan.md)
+- [Retrospective](retrospective.md)
 
 
 ## Beskrivning
