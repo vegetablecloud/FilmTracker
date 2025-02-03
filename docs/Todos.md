@@ -22,27 +22,27 @@
 
 - **Design:**
     - Skissa på en detaljerad design för applikationen:
-        - [ ] Figma Design Användargränssnitt (UX)
-        - [ ] Databasstruktur (Systemarkitektur)
+        - [X] Figma Design Användargränssnitt (UX)
+        - [X] Databasstruktur (Systemarkitektur)
 - **Metoder och Tekniker:**
     - Ge förslag på lämpliga metoder och tekniker för:
-        - [ ] Projektledning
-        - [ ] Systemutveckling
-    - [ ] Motivera val av metoder, tekniker och verktyg.
+        - [X] Projektledning
+        - [X] Systemutveckling
+    - [X] Motivera val av metoder, tekniker och verktyg.
 - **Agil Utvecklingsplanering:**
     - Planera genomförandet av utvecklingen med agila metoder:
-        - [ ] Sprintplanering
-        - [ ] Backlog
-    - [ ] Planeringen ska omfatta hela projektleveransen från Sprint 1 till lansering.
+        - [X] Sprintplanering
+        - [X] Backlog
+    - [X] Planeringen ska omfatta hela projektleveransen från Sprint 1 till lansering.
 - **Prototyp:**
-    - [ ] Skapa en prototyp i Figma baserat på er design och planering.
+    - [X] Skapa en prototyp i Figma baserat på er design och planering.
 
 ### Sprint 3 - Vecka 3: Demonstration och Presentation
 
 - **Demonstration:**
-    - [ ] Förbered en demonstration av er prototyp för företaget och andra intressenter.
+    - [X] Förbered en demonstration av er prototyp för företaget och andra intressenter.
 - **Presentation:**
     - Förbered en presentation som beskriver:
-        - [ ] Arbetsprocessen under sprintarna
-        - [ ] Det framtagna materialet
-        - [ ] Fortsatt plan för genomförandet (sprint (4,5 t.ex)
+        - [X] Arbetsprocessen under sprintarna
+        - [X] Det framtagna materialet
+        - [X] Fortsatt plan för genomförandet (sprint (4,5 t.ex)
