@@ -86,6 +86,18 @@ Alla i teamet har provat på eller diskuterat de olika rollerna inom Scrum, inkl
 [![Databas Struktur](databas_struktur_fiktivt_arbete_agil_projektledning.png)](databas_struktur_fiktivt_arbete_agil_projektledning.png)
 
 ---
+# Definition of Done (DoD)  
+
+För att en uppgift ska räknas som "Done" i vårt projekt ska följande kriterier vara uppfyllda:  
+
+✅ Koden är skriven och fungerar enligt user story.  
+✅ Dokumentation är uppdaterad om relevant.  
+✅ Eventuella UI-designs eller prototyper är implementerade och testade.  
+✅ Uppgiften har granskats av minst en annan teammedlem.  
+✅ Uppgiften är flyttad till "Done" i GitHub Projects.  
+
+
+---
 
 ## 📅 Inlämningskrav
 ✅ Dokumentation av sprintar på GitHub Repo  
